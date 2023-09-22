@@ -2,10 +2,10 @@
 Pensamento Computacional 1mc
 
 
-aluno, sim,
+Aluno, Sim
 
 
-estamos aprendendo 
+Estamos Aprendendo 
 
 
 Mundo geek
