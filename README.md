@@ -1,2 +1,5 @@
 # 1mc
-pensamento computacional 
+pensamento computacional 1mc
+aluno, sim
+estamos aprendendo
+mundo geek
